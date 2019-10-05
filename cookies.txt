@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+clai2faz.fr	TRUE	/	FALSE	1999999999	rd	R3047008492
+clai2faz.wixsite.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1570233969|1B7bFGkhsOJ3
+clai2faz.wixsite.com	TRUE	/	FALSE	1999999999	ssr-caching	cache,desc=miss,varnish=miss, dc,desc=euw2"
+
